@@ -1,5 +1,5 @@
 
-Diagrama de Clases del Sistema de Usuarios
+#Diagrama de Clases del Sistema de Usuarios
 
 1. Controlador
 Gestión de usuarios: registro, login, validación, visualización de menú y eliminación.
